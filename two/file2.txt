@@ -1,3 +1,8 @@
 this is file 2
+<<<<<<< HEAD
 in file 2, this is line 2
 cmput 301 on 3rd line
+=======
+Cmput testing line 2
+hey, this is line 3
+>>>>>>> origin
